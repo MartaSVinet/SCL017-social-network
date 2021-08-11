@@ -53,7 +53,7 @@ export const wall = (e) => {
     <div class="headerInit">      
         <h1 class="nameEluney">Eluney</h1> <br> 
         <div class="containerBoxGreenOne">
-        <img class="boxGreenOne"  src="..../Assets/sostenible (1).png"> 
+        <img class="boxGreenOne"  src="../Assets/sostenible (1).png"> 
       </div>
       <h3>No lo utilizo, te lo regalo!</h3>
       <img class="photoHome" src="${userPhoto}" alt="photoUser"> 
