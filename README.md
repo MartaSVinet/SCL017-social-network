@@ -448,7 +448,7 @@ El feedbaak obtenido fue el siguiente:
 
 Visita Eluney en el siguiente link :
 
-https://mayrenejose.github.io/SCL017-social-network/src/
+https://martasvinet.github.io/SCL017-social-network/src/
 
 
 
